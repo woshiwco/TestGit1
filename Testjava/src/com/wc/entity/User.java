@@ -13,6 +13,7 @@ public class User {
     public String getUsername() {
         return username;
     }
+    // 定义了get方法
 
     public Integer getAge() {
         return age;
