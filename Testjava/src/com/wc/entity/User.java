@@ -14,6 +14,7 @@ public class User {
         return username;
     }
     // 定义了get方法
+    // 且有返回值
 
     public Integer getAge() {
         return age;
