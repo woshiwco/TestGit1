@@ -4,4 +4,5 @@ public class Admin {
     private String name;
     private Integer age;
     private String bendi;
+    private String wcc;
 }
